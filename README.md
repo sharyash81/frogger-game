@@ -19,4 +19,4 @@ A classic **Frogger-style game** implemented in C++ using **SFML**. Guide your f
 
 ## Screenshots / GIF
 
-![Gameplay GIF](assets/frogger-demo.gif)
+![Gameplay GIF](assets/demo.gif)
